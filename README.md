@@ -19,6 +19,6 @@
 
 
 ## Education
-  **SMK Madinatul Quran**
-  2021 - 2024
+  **SMK Madinatul Quran** (2021-2024)
+  <br/>
   Software Enginering
