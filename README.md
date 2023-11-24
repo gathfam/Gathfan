@@ -21,4 +21,4 @@
 ## Education
   **SMK Madinatul Quran** (2021-2024)
   <br/>
-  Software Enginering
+  Major: Software Enginering
