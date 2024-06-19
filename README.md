@@ -2,10 +2,12 @@
 <h1>Nabil Gathfan Putra M.</h1>
 
 
-  I am passionate and excited about developing new software solutions at my vocational high school, which is *SMK Madinatul Quran* and my major is software engineering. Through the acquisition of comprehensive programming and software skill set, combined with diligence and innovation, I produce successful results in my problem solving approaches. This has seen me maintain excellent grades in class as well as being prepared for any new challenges that come with informatics.
+I am Nabil Gathfan, a First-year Informatics Engineering student who loves to design and develop applications that are easily accessible for the mobile application users and also for website users. Actively seeking to start applying the basic knowledge of programming and to develop creative solutions. 
+
+Fluent in many programming languages and frameworks and currently specialize in Flutter and NextJS and always on the lookout for the opportunity to learn something new.
 
 
-## Relevant Skills
+## Technical Skills
   - HTML
   - CSS
   - Javascript
@@ -19,9 +21,17 @@
 
 
 ## Education
-  **SMK Madinatul Quran** (2021-2024)
+  **SMK Madinatul Quran**
   <br/>
-  Major: Software Enginering
+  Computer Software Engineering
+  <br/>
+  Jul 2021 - May 2024
+
+  **Politeknik Negri Lhokseumawe**
+  <br/>
+  Informatic Engineering
+  <br/>
+  Aug 2024 - Present
 
 
 
