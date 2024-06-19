@@ -2,7 +2,7 @@
 <h1>Nabil Gathfan Putra M.</h1>
 
 
-I am Nabil Gathfan, a First-year Informatics Engineering student who loves to design and develop applications that are easily accessible for the mobile application users and also for website users. Actively seeking to start applying the basic knowledge of programming and to develop creative solutions. 
+I am a First-year Informatics Engineering student who loves to design and develop applications that are easily accessible for the mobile application users and also for website users. Actively seeking to start applying the basic knowledge of programming and to develop creative solutions. 
 
 Fluent in many programming languages and frameworks and currently specialize in Flutter and NextJS and always on the lookout for the opportunity to learn something new.
 
